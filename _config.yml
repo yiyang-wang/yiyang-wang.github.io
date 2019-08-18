@@ -1,7 +1,7 @@
 # Site settings
 title: YY Blog
 SEOTitle: 伊杨的博客 | YY Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-star.JPG
 email: 836276608@qq.com
 description: "Troubled, improve yourself; valued, improve the world."
 keyword: "YY, YY Blog, 伊杨的博客, yiyangwang, 王伊杨, Deep learning, Big data, Data mining"
@@ -12,17 +12,17 @@ github_repo: "https://github.com/yiyang-wang/yiyang-wang.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Looking up at the stars and down to earth."
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-yy.GIF      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+zhihu_username:     失伊
+github_username:    yiyang-wang
+# facebook_username:  baiying.qiu.7
+# jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
 
@@ -59,26 +59,26 @@ kramdown:
 # Disqus（https://disqus.com/）
 # disqus_username: qiubaiying
 
-# Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+# # Gitalk
+# gitalk:
+#   enable: true    #是否开启Gitalk评论
+#   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
+#   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+#   repo: qiubaiying.github.io    #仓库名称
+#   owner: qiubaiying    #github用户名
+#   admin: qiubaiying
+#   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
 
-# Analytics settings
-# Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+# # Analytics settings
+# # Baidu Analytics
+# ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
-# Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+# # Google Analytics
+# ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+# ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -99,16 +99,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "Github",
+        href: "https://github.com/yiyang-wang"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "知乎",
+        href: "https://www.zhihu.com/people/kirito-49"
     }
 ]
